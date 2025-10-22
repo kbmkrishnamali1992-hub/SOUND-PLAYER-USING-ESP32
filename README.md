@@ -128,6 +128,6 @@ MIT License – Free to use, modify, and distribute.
 
 **Krishna B Mali**
 
-* GitHub: [https://github.com/kbmkrishnamali1992](https://github.com/kbmkrishnamali1992)
+* GitHub: https://github.com/kbmkrishnamali1992-hub
 
 ```
